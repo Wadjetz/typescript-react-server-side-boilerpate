@@ -1,6 +1,6 @@
-# react-server-side-boilerpate
+# typescript-react-server-side-boilerpate
 
-Very simple react server side boilerplate
+Very simple typescript react server side boilerplate
 
 Technologies
 - Typescript
